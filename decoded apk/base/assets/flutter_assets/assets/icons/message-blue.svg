@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <filter id="Icon_style_" x="0" y="0" width="56" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1880" data-name="Grupo 1880" transform="translate(6 5)">
+    <g id="Icon" transform="translate(0 0)">
+      <g transform="matrix(1, 0, 0, 1, -6, -5)" filter="url(#Icon_style_)">
+        <path id="Icon_style_2" data-name="Icon (style)" d="M22,0A22,22,0,1,1,0,22,22,22,0,0,1,22,0Z" transform="translate(6 5)" fill="#204180"/>
+      </g>
+    </g>
+    <path id="Icon_material-chat_bubble_outline" data-name="Icon material-chat_bubble_outline" d="M19.2,3H4.8A1.805,1.805,0,0,0,3,4.8V21l3.6-3.6H19.2A1.805,1.805,0,0,0,21,15.6V4.8A1.805,1.805,0,0,0,19.2,3Zm0,12.6H6.6L4.8,17.4V4.8H19.2Z" transform="translate(9.287 11)" fill="#f6f6f9"/>
+  </g>
+</svg>

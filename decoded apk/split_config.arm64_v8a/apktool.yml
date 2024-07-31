@@ -1,0 +1,34 @@
+version: 2.9.3-dirty
+apkFileName: split_config.arm64_v8a.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+packageInfo:
+  forcedPackageId: null
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 169
+  versionName: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: true
+unknownFiles:
+  stamp-cert-sha256: 8
+doNotCompress:
+- lib/arm64-v8a/libapp.so
+- lib/arm64-v8a/libavcodec.so
+- lib/arm64-v8a/libavdevice.so
+- lib/arm64-v8a/libavfilter.so
+- lib/arm64-v8a/libavformat.so
+- lib/arm64-v8a/libavutil.so
+- lib/arm64-v8a/libc++_shared.so
+- lib/arm64-v8a/libffmpegkit.so
+- lib/arm64-v8a/libffmpegkit_abidetect.so
+- lib/arm64-v8a/libflutter.so
+- lib/arm64-v8a/libmp3lame.so
+- lib/arm64-v8a/libswresample.so
+- lib/arm64-v8a/libswscale.so
+- lib/arm64-v8a/libtoolChecker.so
